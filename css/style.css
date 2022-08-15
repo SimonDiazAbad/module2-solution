@@ -15,7 +15,7 @@ div.menu-item > p {
 }
 
 .color-set-1 {
-    background-color: grey;
+    background-color: tomato;
 }
 
 .color-set-1 > h2 {
@@ -28,7 +28,7 @@ div.menu-item > p {
 }
 
 .color-set-2 {
-    background-color: grey;
+    background-color: khaki;
 }
 
 .color-set-2 > h2 {
@@ -41,7 +41,7 @@ div.menu-item > p {
 }
 
 .color-set-3 {
-    background-color: grey;
+    background-color: yellow;
 }
 
 .color-set-3 > h2 {
